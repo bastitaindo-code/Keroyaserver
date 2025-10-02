@@ -1,4 +1,4 @@
-# Welcome to Nautica
+# Welcome to Keroya Server
 
 Sebuah repository serverless tunnel studi kasus Indonesia
 
