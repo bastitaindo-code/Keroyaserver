@@ -99,5 +99,5 @@ Berikut cara aktivasinya:
 ---------------------
 - ## 🌐 SUMBER ASLI 
 
-FOOLVPN-ID [SIREN](https://github.com/FoolVPN-ID/Siren)
+FOOLVPN-ID [FOOLVPN-ID](https://github.com/FoolVPN-ID/Nautica)
 
